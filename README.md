@@ -14,12 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![](screenshots/desktop.png)
@@ -38,5 +32,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/erikasby)
-- Twitter - [@yourusername](https://www.twitter.com/ericrgb)
+- Frontend Mentor - [erikasby](https://www.frontendmentor.io/profile/erikasby)
+- Twitter - [@ericrgb](https://www.twitter.com/ericrgb)
