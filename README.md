@@ -16,7 +16,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-<img src="screenshots/desktop.png" height=400>
+<img src="screenshots/desktop.png">
 <img src="screenshots/mobile.png" height=400>
 
 ### Links
